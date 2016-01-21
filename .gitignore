@@ -1,0 +1,5 @@
+personalinfo/settings.py
+*.pyc
+staticfiles
+.env
+db.sqlite3
